@@ -1,2 +1,2 @@
 # SakuraCoding
-点点
+思维先行
